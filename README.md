@@ -1,4 +1,4 @@
-<h2 align="left">Olá, eu sou Renato Sena Cantario!<br>Sou um estudante de programação de 18 anos, focado no desenvolvimento web. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unopar, onde estou adquirindo conhecimentos essenciais para construir aplicações e sites de alta qualidade.</h2>
+<h2 align="left">Olá, eu sou Renato Sena Cantario!<br>Sou um estudante de programação de 19 anos, focado no desenvolvimento web. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi, onde estou adquirindo conhecimentos essenciais para construir aplicações e sites de alta qualidade.</h2>
 
 ###
 
